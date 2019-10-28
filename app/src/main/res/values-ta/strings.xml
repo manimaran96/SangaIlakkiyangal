@@ -13,6 +13,6 @@
     <string name="download_complete">பதிவிறக்கம் முடிந்தது&#8230;</string>
     <string name="download_error">பதிவிறக்க முடியவில்லை&#8230;</string>
 
-    <string name="download_down_failed">Download Failed</string>
-    <string name="global_something_went_wrong">Something went wrong, Try again!</string>
+    <string name="download_down_failed">பதிவிறக்கம் தோல்வியடைந்தது</string>
+    <string name="global_something_went_wrong">ஏதோ தவறு ஏற்பட்டது, மீண்டும் முயற்சிக்கவும்!</string>
 </resources>
